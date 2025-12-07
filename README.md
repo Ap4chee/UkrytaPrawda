@@ -40,6 +40,13 @@ System weryfikacji autentyczności stron rządowych za pomocą aplikacji mobilne
 
 ## 🚀 Szybki start
 
+### 0. Klonowanie repozytorium
+
+```bash
+git clone https://github.com/Ap4chee/UkrytaPrawda.git
+cd UkrytaPrawda
+```
+
 ### 1. Backend
 
 ```bash
@@ -78,6 +85,10 @@ Zeskanuj kod QR aplikacją Expo Go lub uruchom na emulatorze.
 >   ...
 > };
 > ```
+
+## 🔗 Repozytorium
+
+**GitHub:** [https://github.com/Ap4chee/UkrytaPrawda](https://github.com/Ap4chee/UkrytaPrawda)
 
 ## 📁 Struktura projektu
 
