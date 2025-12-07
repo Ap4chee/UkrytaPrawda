@@ -1,0 +1,336 @@
+{
+    "🎛Dashboard": [
+        {
+            "name": "Dashboard",
+            "url": "https://badssl.com/dashboard/"
+        }
+    ],
+    "🎫Certificate": [
+        {
+            "name": "expired",
+            "url": "https://expired.badssl.com/"
+        },
+        {
+            "name": "wrong.host",
+            "url": "https://wrong.host.badssl.com/"
+        },
+        {
+            "name": "self-signed",
+            "url": "https://self-signed.badssl.com/"
+        },
+        {
+            "name": "untrusted-root",
+            "url": "https://untrusted-root.badssl.com/"
+        },
+        {
+            "name": "revoked",
+            "url": "https://revoked.badssl.com/"
+        },
+        {
+            "name": "pinning-test",
+            "url": "https://pinning-test.badssl.com/"
+        },
+        {
+            "name": "no-common-name",
+            "url": "https://no-common-name.badssl.com/"
+        },
+        {
+            "name": "no-subject",
+            "url": "https://no-subject.badssl.com/"
+        },
+        {
+            "name": "incomplete-chain",
+            "url": "https://incomplete-chain.badssl.com/"
+        },
+        {
+            "name": "sha256",
+            "url": "https://sha256.badssl.com/"
+        },
+        {
+            "name": "sha384",
+            "url": "https://sha384.badssl.com/"
+        },
+        {
+            "name": "sha512",
+            "url": "https://sha512.badssl.com/"
+        },
+        {
+            "name": "1000-sans",
+            "url": "https://1000-sans.badssl.com/"
+        },
+        {
+            "name": "10000-sans",
+            "url": "https://10000-sans.badssl.com/"
+        },
+        {
+            "name": "ecc256",
+            "url": "https://ecc256.badssl.com/"
+        },
+        {
+            "name": "ecc384",
+            "url": "https://ecc384.badssl.com/"
+        },
+        {
+            "name": "rsa2048",
+            "url": "https://rsa2048.badssl.com/"
+        },
+        {
+            "name": "rsa4096",
+            "url": "https://rsa4096.badssl.com/"
+        },
+        {
+            "name": "rsa8192",
+            "url": "https://rsa8192.badssl.com/"
+        },
+        {
+            "name": "extended-validation",
+            "url": "https://extended-validation.badssl.com/"
+        }
+    ],
+    "🎟Client Certificate": [
+        {
+            "name": "Certificate Downloads",
+            "url": "https://badssl.com/download/"
+        },
+        {
+            "name": "client",
+            "url": "https://client.badssl.com/"
+        },
+        {
+            "name": "client-cert-missing",
+            "url": "https://client-cert-missing.badssl.com/"
+        }
+    ],
+    "🖼Mixed Content": [
+        {
+            "name": "mixed-script",
+            "url": "https://mixed-script.badssl.com/"
+        },
+        {
+            "name": "very",
+            "url": "https://very.badssl.com/"
+        },
+        {
+            "name": "mixed",
+            "url": "https://mixed.badssl.com/"
+        },
+        {
+            "name": "mixed-favicon",
+            "url": "https://mixed-favicon.badssl.com/"
+        },
+        {
+            "name": "mixed-form",
+            "url": "https://mixed-form.badssl.com/"
+        }
+    ],
+    "✏️HTTP": [
+        {
+            "name": "http",
+            "url": "http://http.badssl.com/"
+        },
+        {
+            "name": "http-textarea",
+            "url": "http://http-textarea.badssl.com/"
+        },
+        {
+            "name": "http-password",
+            "url": "http://http-password.badssl.com/"
+        },
+        {
+            "name": "http-login",
+            "url": "http://http-login.badssl.com/"
+        },
+        {
+            "name": "http-dynamic-login",
+            "url": "http://http-dynamic-login.badssl.com/"
+        },
+        {
+            "name": "http-credit-card",
+            "url": "http://http-credit-card.badssl.com/"
+        }
+    ],
+    "🔀Cipher Suite": [
+        {
+            "name": "cbc",
+            "url": "https://cbc.badssl.com/"
+        },
+        {
+            "name": "rc4-md5",
+            "url": "https://rc4-md5.badssl.com/"
+        },
+        {
+            "name": "rc4",
+            "url": "https://rc4.badssl.com/"
+        },
+        {
+            "name": "3des",
+            "url": "https://3des.badssl.com/"
+        },
+        {
+            "name": "null",
+            "url": "https://null.badssl.com/"
+        },
+        {
+            "name": "mozilla-old",
+            "url": "https://mozilla-old.badssl.com/"
+        },
+        {
+            "name": "mozilla-intermediate",
+            "url": "https://mozilla-intermediate.badssl.com/"
+        },
+        {
+            "name": "mozilla-modern",
+            "url": "https://mozilla-modern.badssl.com/"
+        }
+    ],
+    "🔑Key Exchange": [
+        {
+            "name": "dh480",
+            "url": "https://dh480.badssl.com/"
+        },
+        {
+            "name": "dh512",
+            "url": "https://dh512.badssl.com/"
+        },
+        {
+            "name": "dh1024",
+            "url": "https://dh1024.badssl.com/"
+        },
+        {
+            "name": "dh2048",
+            "url": "https://dh2048.badssl.com/"
+        },
+        {
+            "name": "dh-small-subgroup",
+            "url": "https://dh-small-subgroup.badssl.com/"
+        },
+        {
+            "name": "dh-composite",
+            "url": "https://dh-composite.badssl.com/"
+        },
+        {
+            "name": "static-rsa",
+            "url": "https://static-rsa.badssl.com/"
+        }
+    ],
+    "↔️Protocol": [
+        {
+            "name": "tls-v1-0",
+            "url": "https://tls-v1-0.badssl.com:1010/"
+        },
+        {
+            "name": "tls-v1-1",
+            "url": "https://tls-v1-1.badssl.com:1011/"
+        },
+        {
+            "name": "tls-v1-2",
+            "url": "https://tls-v1-2.badssl.com:1012/"
+        }
+    ],
+    "🔍Certificate Transparency": [
+        {
+            "name": "no-sct",
+            "url": "https://no-sct.badssl.com/"
+        }
+    ],
+    "⬆️Upgrade": [
+        {
+            "name": "hsts",
+            "url": "https://hsts.badssl.com/"
+        },
+        {
+            "name": "upgrade",
+            "url": "https://upgrade.badssl.com/"
+        },
+        {
+            "name": "preloaded-hsts",
+            "url": "https://preloaded-hsts.badssl.com/"
+        },
+        {
+            "name": "subdomain.preloaded-hsts",
+            "url": "https://subdomain.preloaded-hsts.badssl.com/"
+        },
+        {
+            "name": "https-everywhere",
+            "url": "https://https-everywhere.badssl.com/"
+        }
+    ],
+    "👀UI": [
+        {
+            "name": "spoofed-favicon",
+            "url": "https://spoofed-favicon.badssl.com/"
+        },
+        {
+            "name": "lock-title",
+            "url": "https://lock-title.badssl.com/"
+        },
+        {
+            "name": "long-extended-subdomain-name-containing-many-letters-and-dashes",
+            "url": "https://long-extended-subdomain-name-containing-many-letters-and-dashes.badssl.com/"
+        },
+        {
+            "name": "longextendedsubdomainnamewithoutdashesinordertotestwordwrapping",
+            "url": "https://longextendedsubdomainnamewithoutdashesinordertotestwordwrapping.badssl.com/"
+        }
+    ],
+    "❌Known Bad": [
+        {
+            "name": "(Lenovo) Superfish",
+            "url": "https://superfish.badssl.com/"
+        },
+        {
+            "name": "(Dell) eDellRoot",
+            "url": "https://edellroot.badssl.com/"
+        },
+        {
+            "name": "(Dell) DSD Test Provider",
+            "url": "https://dsdtestprovider.badssl.com/"
+        },
+        {
+            "name": "preact-cli",
+            "url": "https://preact-cli.badssl.com/"
+        },
+        {
+            "name": "webpack-dev-server",
+            "url": "https://webpack-dev-server.badssl.com/"
+        }
+    ],
+    "Chrome Tests": [
+        {
+            "name": "captive-portal",
+            "url": "https://captive-portal.badssl.com/"
+        },
+        {
+            "name": "mitm-software",
+            "url": "https://mitm-software.badssl.com/"
+        }
+    ],
+    "☠️Defunct": [
+        {
+            "name": "sha1-2016",
+            "url": "https://sha1-2016.badssl.com/"
+        },
+        {
+            "name": "sha1-2017",
+            "url": "https://sha1-2017.badssl.com/"
+        },
+        {
+            "name": "sha1-intermediate",
+            "url": "https://sha1-intermediate.badssl.com/"
+        },
+        {
+            "name": "invalid-expected-sct",
+            "url": "https://invalid-expected-sct.badssl.com/"
+        }
+    ],
+    "🛠Test Suites": [
+        {
+            "name": "Safe Browsing Tests",
+            "url": "https://testsafebrowsing.appspot.com/"
+        },
+        {
+            "name": "SSL Labs Client Test",
+            "url": "https://www.ssllabs.com/ssltest/viewMyClient.html"
+        }
+    ]
+}

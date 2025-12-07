@@ -1,0 +1,80 @@
+LISTA TESTÓW BADSSL.COM
+
+==================================================
+CERTYFIKATY (Certificate Issues)
+==================================================
+
+Wygasły - https://expired.badssl.com/
+Błędna nazwa hosta - https://wrong.host.badssl.com/
+Samopodpisany - https://self-signed.badssl.com/
+Niezaufany certyfikat główny - https://untrusted-root.badssl.com/
+Odwołany - https://revoked.badssl.com/
+Test HPKP (Pinning) - https://pinning-test.badssl.com/
+Brak Common Name - https://no-common-name.badssl.com/
+Niepełny łańcuch certyfikacji - https://incomplete-chain.badssl.com/
+RSA 2048 - https://rsa2048.badssl.com/
+RSA 8192 - https://rsa8192.badssl.com/
+ECC 256 - https://ecc256.badssl.com/
+Certyfikat EV - https://extended-validation.badssl.com/
+
+
+==================================================
+CERTYFIKAT KLIENTA (Client Certificate)
+==================================================
+
+Wymaga certyfikatu klienta - https://client.badssl.com/
+Brak wymaganego certyfikatu - https://client-cert-missing.badssl.com/
+
+
+==================================================
+MIESZANA ZAWARTOŚĆ (Mixed Content)
+==================================================
+
+Skrypt nieszyfrowany - https://mixed-script.badssl.com/
+Elementy nieszyfrowane - https://mixed.badssl.com/
+Favicon nieszyfrowany - https://mixed-favicon.badssl.com/
+
+
+==================================================
+HTTP (Nieszyfrowane)
+==================================================
+
+Czyste HTTP - http://http.badssl.com/
+Hasło przez HTTP - http://http-password.badssl.com/
+Logowanie przez HTTP - http://http-login.badssl.com/
+
+
+==================================================
+ALGORYTMY SZYFROWANIA (Cipher Suite)
+==================================================
+
+Słaby szyfr CBC - https://cbc.badssl.com/
+Szyfrowanie RC4 - https://rc4.badssl.com/
+Szyfrowanie 3DES - https://3des.badssl.com/
+Brak szyfrowania (Null) - https://null.badssl.com/
+
+
+==================================================
+PROTOKOŁY (Protocol)
+==================================================
+
+TLS 1.0 (przestarzały) - https://tls-v1-0.badssl.com/
+TLS 1.1 (przestarzały) - https://tls-v1-1.badssl.com/
+TLS 1.2 (standard) - https://tls-v1-2.badssl.com/
+
+
+==================================================
+UPGRADE & HSTS
+==================================================
+
+Test HSTS - https://hsts.badssl.com/
+Wymuszenie Upgrade - https://upgrade.badssl.com/
+
+
+==================================================
+ZNANE BŁĘDY / PRZESTARZAŁE (Known Bad / Defunct)
+==================================================
+
+Superfish - https://superfish.badssl.com/
+eDellRoot - https://edellroot.badssl.com/
+SHA1 (2017) - https://sha1-2017.badssl.com/
